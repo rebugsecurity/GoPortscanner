@@ -1,4 +1,4 @@
-// lets get started shall we?
+// Go port scanner
 
 package main
 
